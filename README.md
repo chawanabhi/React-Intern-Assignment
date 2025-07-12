@@ -2,6 +2,18 @@
 # React-Intern-Assignment--Public-chawanabhReact-Intern-Assignment
 =======
 # React + TypeScript + Vite
+## 🚀 How to Run This Project Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/chawanabhi/React-Intern-Assignment.git
+cd React-Intern-Assignment
+##Install Dependencies
+npm install
+Start Development Server
+npm run dev
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
